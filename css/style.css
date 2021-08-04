@@ -1,0 +1,18 @@
+div{
+    width:100px;
+    height:100px;
+    background:#4A88F4;
+    color:#fff;
+    font-size:30px;
+    position:static;
+}
+
+.caja_padre{
+    background:greenyellow;
+    right:;
+    left: 200px;
+    bottom:0px;
+    top:100px;
+    position: static;
+    float: right;
+}
